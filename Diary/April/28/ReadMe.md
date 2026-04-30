@@ -1,4 +1,4 @@
-\# Game Choice
+# Game Choice
 
 
 
@@ -6,7 +6,7 @@ I had to look through several open-source games on GitHub as the ones I looked a
 
 
 
-\# Initial Environment Setup
+# Initial Environment Setup
 
 
 
