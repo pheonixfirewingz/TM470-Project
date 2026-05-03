@@ -1,3 +1,3 @@
 # Update to clarify previous false information
 
-After doing more research I have found that Emscripten was not designed for Linux first, and was actually written in JavaScript so therefore did not have a dedicated operating system in mind. The reason for the misinformation earlier was due to my sources being Linux focused themselves and so gave information pertaining to Linux rather than Emscritpen directly.
+After doing more research I have found that Emscripten was not designed for Linux first, and was actually written in JavaScript so therefore did not have a dedicated operating system in mind. The reason for the misinformation earlier was due to my sources being Linux focused themselves and so gave information pertaining to Linux rather than Emscritpen directly. I will now therefore, be using Windows for my project.
